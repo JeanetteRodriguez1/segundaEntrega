@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: white;
+}
+/* tipografia redes */
+.redes{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    display: inline-block;
+    margin: 15px;
+    padding: 5px;
+    border: solid blanchedalmond; 
+    border-radius: 1em / 2em ;
+    justify-content: center 
+}
+/* color de barra */
+.nav-link{
+  
+}
+
+/*media queries*/
+@media (max-width: 768) and (min-width: 576px) {
+    body{
+        background-color: rgb(15, 15, 15);
+    }
+    
+}
